@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ограждения</name>
+    <NetworkLink>
+      <name>Карта ограждений</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1VsDd07HQQy99Z1aW1O2NULSDvTVNRsAV&lid=j8tZAfLJslk]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
